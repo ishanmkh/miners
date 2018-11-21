@@ -1,17 +1,18 @@
-user_name = "ishanmkh"
-password = "Shefali88"
-repo_link = "https://github.com/kubernetes/kubernetes"
 
 from github import Github
 import pandas as pd
 
+user_name = input ('Enter Github Username :')
+password = input ('Enter Github Password :')
+repo_link = "https://github.com/kubernetes/kubernetes"
+filename = input('Enter Output filename: ')
 
 columns = ["login", "contributions", "Type", "site_admin", "name", "company",
            "blog", "location", "email", "followers", "description"]
 
 
 g = Github(user_name, password)
-repo = g.get_repo("kubernetes/kubernetes")
+repo = g.get_repo(input ('Enter Repo :'))
 
 
 df = pd.DataFrame(columns = columns)
@@ -33,6 +34,6 @@ for contributor in repo.get_contributors():
     
     df = df.append(d, ignore_index=True)
     
-df.to_csv("f.csv")                        
+df.to_csv(filename)                        
 
 
