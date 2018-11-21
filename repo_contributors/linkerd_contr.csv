@@ -1,0 +1,93 @@
+,login,contributions,Type,site_admin,name,company,blog,location,email,followers,cont_desc,org,org_desc,cont_dec
+0,adleong,378,User,False,Alex Leong,@BuoyantIO ,https://t.co/a,None,None,23,,,,None
+1,olix0r,208,User,False,Oliver Gould,Buoyant,https://buoyant.io,"San Francisco, CA, USA",ver@buoyant.io,133,,,,chief technical spokeshobo at @buoyantio. growing @linkerd. nil sine magno vita labore dedit mortalibus
+2,siggy,104,User,False,Andrew Seigner,@BuoyantIO,https://sig.gy,"sf,ca,usa",andrew@sig.gy,68,,,,Codez at @BuoyantIO
+3,rmars,86,User,False,Risha Mars,Buoyant,,None,None,14,,,,None
+4,klingerf,75,User,False,Kevin Lingerfelt,Buoyant,http://klingerf.com,San Francisco,klingerf@gmail.com,31,,,,None
+5,hawkw,60,User,False,Eliza Weisman,@BuoyantIO ,elizas.website,SF/Oakland,eliza@buoyant.io,269,,,,recently edited these files :: systems witch at @BuoyantIO 
+6,dadjeibaah,49,User,False,Dennis Adjei-Baah,None,kofi.io,"San Francisco, CA",dennis@buoyant.io,11,,,,None
+7,esbie,35,User,False,Sarah Brown,None,http://twitter.com/esbie,"San Francisco, CA",None,97,,,,None
+8,Ashald,31,User,False,Borys Pierov,None,,US,None,29,,,,None
+9,wmorgan,18,User,False,William Morgan,@BuoyantIO ,https://buoyant.io,"San Francisco, CA",None,70,,,,Talky person @BuoyantIO 
+10,stevej,14,User,False,Steve Jenson,None,http://saladwithsteve.com/,"San Francisco, CA",stevej@fruitless.org,214,,,,None
+11,gtcampbell,12,User,False,Greg Campbell,@LendingHome ,,"San Francisco, CA",None,4,,,,"Engineering at @lendinghome. Previously @BuoyantIO, @twitter, others.
+
+(note: older account at @gcampbell, lost access due to 2FA failures on my part)."
+12,fantayeneh,7,User,False,fantayeneh,@homeaway,,London,None,20,,,,None
+13,ccmtaylor,6,User,False,Christopher Taylor,SoundCloud,https://twitter.com/ccmtaylor,"Berlin, Germany",None,22,,,,None
+14,edio,6,User,False,Dmytro Kostiuchenko,None,127001.me,None,None,10,,,,None
+15,leozc,6,User,False,Leo Liang,ex msft+amzn+twtr,www.leozc.com,Seattle,None,5,,,,"Builder, Software Engineer In the Cloud."
+16,obeattie,5,User,False,Oliver Beattie,@monzo ,http://www.obeattie.com,"London, UK",oliver@obeattie.com,175,,,,Head of Engineering @monzo
+17,cponomaryov,5,User,False,Cyril Ponomaryov,None,,"Kiev, Ukraine",cyril.ponomaryov@gmail.com,2,,,,None
+18,chrisgoffinet,4,User,False,Chris Goffinet,ThreeComma.io,https://www.threecomma.io,United States,chris@threecomma.io,1,,,,DevOps @ ThreeComma.io. We’re hiring and for hire.
+19,JustinVenus,4,User,False,Justin Venus,None,,"Chicago, IL, USA",justin.venus@gmail.com,19,,,,None
+20,pcalcado,4,User,False,Phil Calçado,@meetup ,http://philcalcado.com,New York City,None,661,,,,I code for @Meetup / @WeWork and Jiu-Jitsu for Checkmat NYC under Fabio Clemente. Rio to Melbourne to Sydney to London to Berlin and now New York City.
+21,robertpanzer,4,User,False,Robert Panzer,None,http://robertpanzer.github.io,"Paderborn, Germany",robert.panzer@me.com,14,,,,None
+22,mmrozek,4,User,False,Michał Mrożek,@ScalaConsultants,,Kraków,michal.mrozek@scalac.io,0,,,,Scala Developer at @ScalaConsultants 
+23,kleimkuhler,3,User,False,Kevin Leimkuhler,None,,"San Francisco, CA",kevin@kleimkuhler.com,12,,,,None
+24,negz,3,User,False,Nic Cope,@planetlabs ,http://twitter.com/internegz,Seattle,None,32,,,,Kubernetes Lead @planetlabs. Formerly SRE @spotify and @google.
+25,shakti-das,3,User,False,Shakti Das,@salesforce,shaktidas.com,Hyderabad,shakti.das2002@gmail.com,2,,,,None
+26,tonyd3,3,User,False,Tony Dong,TellApart,http://tony-dong.com/,San Francisco,None,22,,,,None
+27,apakulov,2,User,False,Alexander Pakulov,Stripe,http://about.me/apakulov,"San Francisco, California",None,23,,,,None
+28,dvulpe,2,User,False,Dan Vulpe,None,,London,None,6,,,,Shipping is caring.
+29,ivanopagano,2,User,False,Ivano Pagano,Scalac @ScalaConsultants ,https://about.me/ivano_pagano,Rome (IT),pagoda_5b@hotmail.com,24,,,,"A physicist turned programmer, working as backend developer on the jvm. Curious to learn, loves functional programming, smooth ui, software architectures."
+30,mrezaei00,2,User,False,Mohsen Rezaei,WePay Inc.,,"Redwood City, CA",None,1,,,,Software engineer working on developer and productivity tools
+31,elecnix,2,User,False,Nicolas Marchildon,None,,"Montreal, QC, Canada",nicolas@marchildon.net,21,,,,None
+32,zillani,2,User,False,zshaik,None,,Hyderabad,shaikzillani@gmail.com,1,,,,Software Developer
+33,LukaszMarchewka,2,User,False,Łukasz Marchewka,PROSOFT Łukasz Marchewka,lukaszmarchewka.pl,Poland,None,1,,,,None
+34,amedeedaboville,1,User,False,Amédée d'Aboville,None,amedee.me,"Montréal, CA",amedee.daboville@gmail.com,13,,,,"I program data related things using pandas, sklearn and AWS. I also make cross platform apps."
+35,andersschuller,1,User,False,Anders Schuller,None,,None,None,2,,,,None
+36,aywrite,1,User,False,Andrew,Freelancer.com,,Australia,andrew.wright502@gmail.com,5,,,,None
+37,andrewrothstein,1,User,False,Andrew Rothstein,None,,None,None,103,,,,None
+38,AMCR,1,User,False,Antonio Rodrigues,@telegraph ,,London,rodrigues.am.costa@gmail.com,7,,,,None
+39,benley,1,User,False,Benjamin Staffin,Postmates,,"Boston, MA",benley@gmail.com,91,,,,None
+40,carloszuluaga,1,User,False,Carlos Zuluaga,S4N,,Medellin ,None,16,,,,None
+41,christophetd,1,User,False,Christophe Tafani-Dereeper,None,https://christophetd.fr,/proc/self,christophe@tafani-dereeper.me,82,,,,Security Engineer at @HacknowledgeCH
+42,ctozzi,1,User,False,Christopher Tozzi,Fixate IO,,None,None,0,,,,None
+43,cab,1,User,False,Conner Bryan,None,,@connerbryan,conner@amps.io,11,,,,None
+44,drichelson,1,User,False,Dan Richelson,@salesforce,,"Oakland, California",None,3,,,,Engineer working on Microservices architecture @salesforce
+45,djKooks,1,User,False,Kwang-in (Dennis) Jung,None,http://djkooks.github.io,"Tokyo, Japan",inylove82@gmail.com,11,,,,"Developer, 개발자、かいはつしゃ"
+46,erdody,1,User,False,Diego Erdody,Medallia,http://www.medallia.com,"Palo Alto, CA",None,5,,,,None
+47,dmexe,1,User,False,Dmitry Galinsky,Bookmate.com,,None,None,38,,,,None
+48,dadadom,1,User,False,Dominik Sandjaja,trivago,http://dadadom.de,"Düsseldorf, Germany",github@dadadom.de,6,,,,None
+49,dpetersen,1,User,False,Don Petersen,None,,"Bend, OR",don@donpetersen.net,23,,,,None
+50,drewrobb,1,User,False,Drew Robb,strava,,None,None,18,,,,None
+51,franziskagoltz,1,User,False,Franziska von der Goltz,None,linkedin.com/in/franziska-von-der-goltz,"San Francisco, CA",franziska@vdgoltz.eu,12,,,,Software Engineer
+52,halve,1,User,False,None,None,,None,None,0,,,,None
+53,macalinao,1,User,False,Ian Macalinao,@abacusprotocol ,https://ian.pw,"San Francisco, CA",me@ian.pw,416,,,,"CTO & co-founder of @abacusprotocol.
+
+BUIDLing things people want."
+54,jayeve,1,User,False,J Evans,@strava ,,SF/Bay Area,None,0,,,,None
+55,jackkleeman,1,User,False,Jack Kleeman,@monzo ,jkleeman.me,London,None,17,,,,I am building a bank at Monzo. I write a lot of Go and a little Javascript.
+56,sevein,1,User,False,Jesús García Crespo,None,http://www.sevein.com,"Vancouver, Canada",jesus@sevein.com,42,,,,None
+57,jreichhold,1,User,False,Jonathan Reichhold,None,,"Seattle, WA",None,11,,,,None
+58,captjt,1,User,False,Jordan Taylor,@AccentureFederal,https://jt.codes,"Washington, DC",jtaylor007.jt@gmail.com,17,,,,"Go, Kubernetes, Distributed Systems. CKAD."
+59,joshleeb,1,User,False,Josh Leeb-du Toit,@Canva ,joshleeb.com,Sydney,josh.leebdutoit@gmail.com,32,,,,None
+60,khotyn,1,User,False,Khotyn Huang,@alipay ,http://blog.khotyn.com,"HangZhou, ZheJiang, China",hting1@gmail.com,729,,,,"Staff Engineer@Ant Financial | SOFAStack Member | We are hiring(Golang, Java, Middleware)"
+61,liamstewart,1,User,False,Liam Stewart,Strava,,"Saint Paul, MN",None,5,,,,None
+62,mstoskus,1,User,False,Mantas Stoškus,"UAB ""INVENTI""",,None,None,1,,,,None
+63,mejran,1,User,False,Marcin Mejran,None,https://mindfulmachines.io,New York City,mejran@gmail.com,12,,,,Problem solver with a passion for Data Science and Big Data.
+64,mhuxtable,1,User,False,Matthew Huxtable,University of Cambridge,,United Kingdom,None,9,,,,None
+65,mtweten,1,User,False,Michael Tweten,None,,None,None,5,,,,None
+66,mirosval,1,User,False,Miroslav Zoričák,None,http://blog.mirosval.sk,None,None,8,,,,None
+67,fangel,1,User,False,Morten Fangel,None,http://sevengoslings.net,"Copenhagen, Denmark",fangel@sevengoslings.net,16,,,,None
+68,moleksyuk,1,User,False,Mykhailo Oleksiuk,None,www.linkedin.com/in/moleksyuk,None,mykhailo[dot]oleksiuk@gmail.com,5,,,,None
+69,endzyme,1,User,False,Nick Huanca,None,http://twitter.com/nickhuanca,"Denver, CO",None,11,,,,None
+70,utrack,1,User,False,Nick Koptelov,OZON,,$HOME,None,18,,,,None
+71,nikolay-pshenichny,1,User,False,Nikolay Pshenichnyy,@salesforce,,"San Francisco, CA",None,2,,,,None
+72,OleksandrBerezianskyi,1,User,False,Oleksandr Berezianskyi,None,,None,None,3,,,,None
+73,peterfich,1,User,False,Peter Fich,None,,London,None,1,,,,None
+74,peterfroehlich,1,User,False,Peter Fröhlich,GuteFrage.net GmbH,,"Munich, Germany",None,15,,,,None
+75,stamm,1,User,False,Rustam Zagirov,Ozon,https://zagirov.name,"Moscow, Russia",rustam@zagirov.name,87,,,,None
+76,rmichela,1,User,False,Ryan Michela,@salesforce ,ryanmichela.com,"San Francisco, CA",deltahat@gmail.com,35,,,,"Service mesh, gRPC, Zipkin, etc."
+77,sgrankin,1,User,False,Sergey Grankin,None,,"New York, NY",None,14,,,,None
+78,rogoman,1,User,False,Tomasz Rogozik,None,,"Warsaw, Poland",None,3,,,,Cloud enthusiast. Software Engineer. Chief Architect @ApplauseAQI
+79,tsandall,1,User,False,Torin Sandall,"Styra, Inc.",,None,torinsandall@gmail.com,28,,,,Software Engineer at Styra. We're hiring!
+80,yarosman,1,User,False,Yaroslav Derman,None,,None,None,2,,,,None
+81,zackangelo,1,User,False,Zack Angelo,@bigcommerce ,http://bigcommerce.com,"San Francisco, CA",None,16,,,,None
+82,dhay,1,User,False,None,None,,None,None,1,,,,None
+83,hhtpcd,1,User,False,None,None,,None,None,2,,,,None
+84,jmalvarezf,1,User,False,None,None,,None,None,0,,,,Architect @ El Corte Ingles
+85,nvartolomei,1,User,False,None,None,https://twitter.com/nvartolomei,None,None,42,,,,geek by day • superhero by night • startup engineering • dataist • systems @cloudflare
+86,pbagchi,1,User,False,None,None,,None,None,6,,,,None
+87,yoshi-taka,1,User,False,None,None,http://qiita.com/yoshi-taka,Japan,smokeonthewater222@yahoo.co.jp,2,,,,None

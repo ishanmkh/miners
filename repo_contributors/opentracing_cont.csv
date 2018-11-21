@@ -1,0 +1,37 @@
+,login,contributions,Type,site_admin,name,company,blog,location,email,followers,cont_desc,org,org_desc,cont_dec
+0,bhs,137,User,False,Ben Sigelman,"OpenTracing, LightStep",http://opentracing.io,San Francisco,None,66,,,,"I like self-describing software systems, semantic depth, approachable APIs, and long walks on the beach. I mostly work on @opentracing."
+1,bensigelman,51,User,False,Moved to https://github.com/bhs,None,https://github.com/bhs,None,None,0,,,,(@bhs's old username)
+2,yurishkuro,37,User,False,Yuri Shkuro,Uber Techonlogies (@uber),https://twitter.com/YuriShkuro,New York,None,224,,,,"Tech lead for Jaeger, Uber's distributed tracing system."
+3,tbg,35,User,False,Tobias Grieger,Cockroach Labs,http://tbg.github.io,Central European Time,tobias.schottdorf@gmail.com,111,,,,None
+4,bg451,10,User,False,Brandon Gonzalez,@lightstep ,,San Francisco,None,28,,,,None
+5,jmacd,5,User,False,Joshua MacDonald,http://lightstep.com,http://xdelta.org,"San Francisco, CA",None,22,,,,None
+6,basvanbeek,3,User,False,Bas van Beek,None,,"Amersfoort, The Netherlands",None,49,,,,None
+7,slimsag,3,User,False,Stephen Gutekanst,Sourcegraph,http://azul3d.org,Arizona,stephen.gutekanst@gmail.com,102,,,,"At @sourcegraph I work on tools that improve the lives of developers everywhere. In my spare time, I write game engines in Go (@azul3d) and Rust (@hexops)."
+8,stamm,2,User,False,Rustam Zagirov,Ozon,https://zagirov.name,"Moscow, Russia",rustam@zagirov.name,87,,,,None
+9,cce,2,User,False,chris erway, @solarwinds @appoptics @tracelytics,https://cs.brown.edu/~cce,"providence, rhode island",None,20,,,,"chief architect, SolarWinds Cloud; co-founder, Tracelytics 
+"
+10,IncSW,1,User,False,Aleksei Lin,Brabens Development,https://incsw.in,Saint-Petersburg,dev@incsw.in,9,,,,None
+11,eirinikos,1,User,False,Andrea Kao,Cloud Native Computing Foundation,http://eirinikos.github.io,Los Angeles,None,29,,,,None
+12,voutasaurus,1,User,False,Anthony Voutas,None,,San Francisco,None,6,,,,counterexample generator @loyyal
+13,gwik,1,User,False,Antonin Amand,Infrae,,"Paris, France",antonin.amand@gmail.com,61,,,,None
+14,bmizerany,1,User,False,Blake Mizerany,None,,None,blake.mizerany@gmail.com,1194,,,,None
+15,bradbl,1,User,False,Brad,None,,None,None,0,,,,None
+16,dvrkps,1,User,False,Davor Kapsa,@KrakenSystems @NextUserSF,,"Europe, Croatia, Bjelovar",None,28,,,,Gopher. Make bugs since 1997.
+17,DiSiqueira,1,User,False,Diego Siqueira,HelloFresh (@hellofresh),http://fb.com/DiSiqueira,Berlin - Germany,None,134,,,,A Computer Engineer - A Passionate Backend Developer
+18,ror6ax,1,User,False,Gregory Reshetniak,None,ror6ax.github.io,Spaaace,ror6ax@gmail.com,17,,,,¯\_(ツ)_/¯
+19,jcchavezs,1,User,False,José Carlos Chávez,@Typeform,http://twitter.com/jcchavezs,Barcelona - Cataluña,jcchavezs@apache.org,39,,,,Software engineer and Peruvian llama ambassador. Read me at http://devthoughts.tech
+20,kriskowal,1,User,False,Kris Kowal,None,http://codi.sh,"San Francisco Bay Area, CA, USA",kris@cixar.com,1629,,,,Open sourcerer.
+21,kyleconroy,1,User,False,Kyle Conroy,Stripe,www.kyleconroy.com,San Francisco,kyle@kyleconroy.com,171,,,,None
+22,savaki,1,User,False,Matt Ho,None,,San Francisco,None,54,,,,None
+23,NeoCN,1,User,False,None,None,http://www.devx.me,厦门,None,49,,,,None
+24,PikBot,1,User,False,None,None,,None,None,1,,,,None
+25,RaduBerinde,1,User,False,None,@cockroachlabs,,None,None,18,,,,None
+26,RichardScothern,1,User,False,Richard Scothern,Facebook,,"San Francisco, CA",None,12,,,,None
+27,rohanpai,1,User,False,Rohan Pai,None,http://rohanpai.com,"Cupertino, CA",None,36,,,,I'm a student at UC Berkeley.
+28,sebastianvera,1,User,False,Sebastián Vera,None,https://sebastianvera.github.io/web/,"Santiago, Chile",u.verainf@gmail.com,24,,,,"Fullstack developer and enthusiastic entrepreneur that loves web technologies, creating things and vim. Curious about IoT and functional programming."
+29,tamird,1,User,False,Tamir Duberstein,@google ,,"New York, NY",tamird@gmail.com,142,,,,None
+30,tedsuo,1,User,False,Ted Young,"@lightstep, @opentracing",https://twitter.com/tedsuo,San Francisco,ted@lightstep.com,99,,,,Tracing and Distributed Systems Specialist at LightStep.
+31,tonyghita,1,User,False,Tony Ghita,Twitch,http://tonyghita.com,"San Francisco, CA",None,46,,,,APIs @twitchtv
+32,vgough,1,User,False,Valient Gough,None,http://www.arg0.net,United States,vgough@pobox.com,47,,,,None
+33,billf,1,User,False,bill fumerola,@facebook @hhvm,http://www.facebook.com/bill,"San Francisco, CA",fumerola@gmail.com,26,,,,None
+34,jeremyxu2010,1,User,False,None,None,,None,None,6,,,,None

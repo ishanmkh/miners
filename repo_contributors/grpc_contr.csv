@@ -1,0 +1,358 @@
+,login,contributions,Type,site_admin,name,company,blog,location,email,followers,cont_desc,org,org_desc,cont_dec
+0,ctiller,8432,User,False,Craig Tiller,@google ,https://twitter.com/invalidop,None,craig.tiller@gmail.com,157,,,,None
+1,jtattermusch,3811,User,False,Jan Tattermusch,Google,,"Mountain View, CA",None,63,,,,None
+2,murgatroid99,1914,User,False,Michael Lumish,None,,None,michael.lumish@gmail.com,69,,,,None
+3,nicolasnoble,1679,User,False,Nicolas Noble,@google,,United States,None,44,,,,None
+4,vjpai,1450,User,False,Vijay Pai,@google  @grpc,https://vjpai.github.io/,"Sunnyvale, CA",None,37,,,,None
+5,yang-g,1399,User,False,Yang Gao,Google,,None,yangg@google.com,26,,,,None
+6,markdroth,1205,User,False,Mark D. Roth,None,,None,None,22,,,,None
+7,ncteisen,1200,User,False,Noah Eisen,@google @grpc ,www.noaheisen.com,None,ncteisen@gmail.com,24,,,,exit(1)
+8,muxi,1168,User,False,Muxi Yan,Texas A&M University,,"College Station, TX, USA",None,11,,,,None
+9,sreecha,952,User,False,Sree Kuchibhotla,LinkedIn,,Sunnyvale,skuchibhotla@linkedin.com,30,,,,None
+10,y-zeng,677,User,False,Yuchen Zeng,Google,,Mountain View,None,31,,,,None
+11,jcanizales,632,User,False,Jorge Canizales,@google ,https://twitter.com/canizalesdiaz,"Newark, CA",jcanizales@google.com,17,,,,None
+12,mehrdada,600,User,False,Mehrdad Afshari,None,https://mehrdad.afshari.me,California,None,60,,,,None
+13,apolcyn,598,User,False,None,None,,None,apolcyn@google.com,40,,,,None
+14,kpayson64,571,User,False,None,None,,None,None,6,,,,None
+15,yashykt,555,User,False,Yash Tibrewal,None,,None,yashykt@gmail.com,10,,,,None
+16,stanley-cheung,544,User,False,Stanley Cheung,None,,"Mountain View, CA",None,54,,,,None
+17,nathanielmanistaatgoogle,519,User,False,Nathaniel Manista,"Google, Inc.",http://www.google.com,United States,nathaniel@google.com,95,,,,None
+18,jboeuf,371,User,False,None,None,,None,None,5,,,,None
+19,matt-kwong,325,User,False,Matt Kwong,@google ,,None,None,2,,,,None
+20,tbetbetbe,323,User,False,Tim Emiola,None,https://plus.google.com/u/1/+TimEmiola,United States,None,36,,,,None
+21,adelez,272,User,False,None,None,,None,None,2,,,,None
+22,makdharma,248,User,False,None,None,,None,None,6,,,,None
+23,soltanmm,247,User,False,Masood Malekghassemi,None,,None,None,11,,,,None
+24,soltanmm-google,219,User,False,Masood Malekghassemi,None,,None,None,3,,,,I'm @soltanmm but wearing a Xoogle hat.
+25,AspirinSJL,169,User,False,Juanli Shen,Google,,Sunnyvale CA,juanlishen@google.com,22,,,,None
+26,a-veitch,136,User,False,Alistair Veitch,Google,,"Mountain View, USA",None,4,,,,None
+27,LisaFC,126,User,False,None,None,,Dublin,None,7,,,,None
+28,hcaseyal,113,User,False,None,None,,None,None,1,,,,None
+29,ZhouyihaiDing,108,User,False,Zhouyihai Ding,Google,,California MTV/SVL,None,34,,,,None
+30,jiangtaoli2016,107,User,False,Jiangtao Li,Google,,None,jiangtao@google.com,3,,,,None
+31,dklempner,104,User,False,David Klempner,None,,None,None,2,,,,None
+32,a11r,103,User,False,Abhishek Kumar,Google,,United States,None,7,,,,None
+33,ericgribkoff,96,User,False,Eric Gribkoff,Google,http://homes.cs.washington.edu/~eagribko/,"Mountain View, CA",ericgribkoff@google.com,15,,,,None
+34,rjshade,94,User,False,Robbie Shade,None,http://rjshade.com/,None,robbie.shade@gmail.com,34,,,,None
+35,ejona86,83,User,False,Eric Anderson,Google,,"Sunnyvale, CA",ejona86@gmail.com,112,,,,None
+36,thinkerou,73,User,False,thinkerou,None,,"Beijing, China",thinkerou@gmail.com,74,,,,Coding makes me happy.
+37,lyuxuan,72,User,False,None,None,,None,None,21,,,,None
+38,srini100,67,User,False,Srini Polavarapu,None,,None,None,1,,,,None
+39,hongweiwang,66,User,False,Hongwei Wang,Google,,"Mountain View, California",None,2,,,,None
+40,yihuazhang,63,User,False,yihuaz,Google,,None,yihuaz@google.com,3,,,,None
+41,bogdandrutu,56,User,False,Bogdan Drutu,@google ,,San Francisco,None,46,,,,"""I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it."""
+42,sidrakesh93,55,User,False,Siddharth Rakesh,"Google, Inc.",,Mountain View,sidrakesh@google.com,19,,,,None
+43,jayantkolhe,54,User,False,Jayant Kolhe,Google,,United States,None,56,,,,None
+44,lidizheng,47,User,False,Lidi Zheng,None,,None,None,15,,,,None
+45,Vizerai,46,User,False,Jim King,Google,,"Mountain View, CA",jsking@google.com,3,,,,None
+46,iamqizhao,45,User,False,Qi Zhao,Google,http://scholar.google.com/citations?user=FWierZoAAAAJ&hl=en,"CA, USA",toqizhao@gmail.com,58,,,,None
+47,daniel-j-born,45,User,False,Dan Born,None,,None,None,1,,,,None
+48,gnossen,44,User,False,Richard Belleville,@google,,"Sunnyvale, California",j.belleville.richard@gmail.com,10,,,,None
+49,carl-mastrangelo,41,User,False,Carl Mastrangelo,@google ,https://carlmastrangelo.com/,Bay Area,None,136,,,,None
+50,donnadionne,40,User,False,None,None,,None,None,0,,,,None
+51,soheilhy,38,User,False,Soheil Hassas Yeganeh,Google,http://www.cs.toronto.edu/~soheil,"New York, NY",None,78,,,,None
+52,MakMukhi,36,User,False,mmukhi,None,,None,None,7,,,,None
+53,yongni,34,User,False,None,None,,None,None,0,,,,None
+54,danzh1989,32,User,False,danzh,None,,None,None,1,,,,None
+55,billfeng327,32,User,False,Bill Feng,None,,None,None,0,,,,None
+56,mugurm,26,User,False,Mugur Marculescu,Google,http://mugur.com,San Francisco Bay Area,mugurm@gmail.com,40,,,,None
+57,ghostwriternr,21,User,False,Naresh,Maintainer at @metakgp ,https://ghostwriternr.me/,Kharagpur,ghostwriternr@gmail.com,161,,,,IIT Kharagpur alumni 🎓 Masters in Computer Science 💻 Software Engineer @intuit 💁 GSoC '18 student with @grpc 🔥
+58,kwasimensah,21,User,False,None,None,,None,None,2,,,,None
+59,hvardhanx,19,User,False,Harsh Vardhan,@browserstack,,India,harshvd95@gmail.com,48,,,,Live the life you've imagined
+60,wenbozhu,19,User,False,Wenbo Zhu,Google Inc.,,California U.S.,wenboz@google.com,10,,,,None
+61,yugui,19,User,False,Yuki Yugui Sonoda,None,http://yugui.jp,"Saitama, Japan",yugui@yugui.sakura.ne.jp,559,,,,None
+62,xyzzyz,19,User,False,Adam Michalik,None,http://michalik.es,Warsaw,adam@michalik.es,47,,,,None
+63,Capstan,19,User,False,Nathan Herring,@GoogleCloudPlatform ,http://technosloth.blogspot.com,"Zürich, Switzerland",None,18,,,,None
+64,zeliard,19,User,False,Seungmo Koo,None,,"Seoul, Republic of Korea",None,115,,,,AMZN
+65,guantaol,18,User,False,Guantao Liu,None,,San Francisco Bay Area,None,0,,,,None
+66,ahedberg,17,User,False,ahedberg,Google,http://ahedberg.github.io/,"Boston, MA",ahedberg@google.com,12,,,,None
+67,ganmacs,17,User,False,Yuta Iwama,@cookpad ,https://twitter.com/ganmacs,"Tokyo, Japan",ganmacs@gmail.com,20,,,,None
+68,menghanl,16,User,False,Menghan Li,Google,,MTV,None,23,,,,None
+69,kkm000,16,User,False,kkm (aka Kirill Katsnelson),SmartAction,http://www.smartaction.ai,"Los Angeles, CA, US",kkm@smartaction.ai,10,,,,None
+70,thunderboltsid,16,User,False,Siddharth Shukla,None,sshukla.de,Aarhus,None,39,,,,Software Engineer @ Uber
+71,vishalpowar,16,User,False,None,None,,None,None,3,,,,None
+72,oaktowner,14,User,False,Dan Ciruli,@google ,,"Bay Area, CA",None,32,,,,"Former engineer, now just product managing at Google."
+73,fengli79,14,User,False,Feng Li,Google,,"Mountain View, CA",None,9,,,,None
+74,hsaliak,14,User,False,kailashs kailashs,Google,,None,None,57,,,,None
+75,chedetinaveen,13,User,False,Naveen Reddy Chedeti,None,,India,None,9,,,,None
+76,madongfly,11,User,False,Xudong Ma,Google,,Mountain View,madongfly@gmail.com,17,,,,Add a bio
+77,pmarks-net,11,User,False,Paul Marks,None,,"SF Bay Area, CA, US",None,12,,,,None
+78,emmenlau,10,User,False,Mario Emmenlauer,BioDataAnalysis GmbH,http://www.biodataanalysis.de,Munich,None,6,,,,None
+79,michaelbausor,10,User,False,None,None,,None,None,8,,,,None
+80,nkibler,10,User,False,Nate Kibler,Google Inc.,,None,None,1,,,,None
+81,pquerna,10,User,False,Paul Querna,None,http://journal.paul.querna.org/,"San Francisco, CA",pquerna@apache.org,437,,,,@ScaleFT Founder
+82,thassss,10,User,False,Tommy Hass,@vsco ,,None,thomas.e.hass@gmail.com,1,,,,None
+83,kriswuollett,10,User,False,Kristopher Wuollett,Google,https://twitter.com/kriswuollett,"Mountain View, CA",None,8,,,,None
+84,ara-ayvazyan,10,User,False,Ara Ayvazyan,@Microsoft,,None,None,6,,,,None
+85,chrisdunelm,10,User,False,Chris Bacon,None,,UK,chris@dunelm.org.uk,89,,,,None
+86,mhaidrygoog,10,User,False,Moiz Haidry,Google,,Sunnyvale,None,0,,,,None
+87,nmittler,9,User,False,Nathan Mittler,Google,,"Santa Clara, CA",nmittler@gmail.com,99,,,,None
+88,zsurocking,9,User,False,Xiao Hang,None,,None,None,4,,,,None
+89,nallohki,8,User,False,None,None,,None,None,0,,,,None
+90,kumaralokgithub,8,User,False,None,None,,None,None,0,,,,None
+91,htuch,7,User,False,None,Google,,"Cambridge, MA",None,43,,,,Envoy contributor @ Google
+92,iancoolidge,7,User,False,Ian Coolidge,None,,"Mountain View, CA",None,0,,,,None
+93,tberghammer,7,User,False,None,None,,None,None,3,,,,None
+94,ovekyc,7,User,False,Youngchan Kim,None,https://linkedin.com/in/ovekyc,"Seoul, South Korea",ovekyc@gmail.com,8,,,,None
+95,agc-sec,7,User,False,None,None,,None,None,0,,,,None
+96,ewr,6,User,False,Eric Richardson,Square,http://ewr.is,"Atlanta, GA",e@ewr.is,27,,,,None
+97,pongad,6,User,False,Michael Darakananda,@GoogleCloudPlatform ,,"Seattle, Washington",pongad@google.com,9,,,,None
+98,bsyk,6,User,False,Ben Sykes,None,,California,None,9,,,,None
+99,dmaclach,6,User,False,dmaclach,@google ,,None,None,10,,,,I'm the guy who lives beside Microsoft working on Apple stuff at Google.
+100,justinburke,6,User,False,Justin Burke,None,,None,None,16,,,,None
+101,bdotdub,5,User,False,Benny Wong,http://timehop.com/,http://bwong.net/,"New York, NY",benny@bwong.net,87,,,,cofounder/cto @ timehop
+102,cartr,5,User,False,Carter Sande,None,http://carter.sande.duodecima.technology,None,carter.sande@duodecima.technology,15,,,,None
+103,dwittmer,5,User,False,None,None,,None,None,0,,,,None
+104,dfawley,5,User,False,Doug Fawley,Google,,None,None,17,,,,None
+105,jskeet,5,User,False,Jon Skeet,Google,http://jonskeet.uk,"London, UK",skeet@pobox.com,3686,,,,None
+106,podsvirov,5,User,False,Konstantin Podsvirov,None,http://podsvirov.pro,Russia,None,9,,,,None
+107,var-const,5,User,False,Konstantin Varlamov,None,,None,None,1,,,,None
+108,lizan,5,User,False,Lizan Zhou,None,http://lizan.asia/,San Francisco Bay Area,None,62,,,,None
+109,louiscryan,5,User,False,Louis Ryan,Google,https://twitter.com/louiscryan,"Mountain View, CA",None,48,,,,None
+110,ppietrasa,5,User,False,Piotr Pietraszkiewicz,None,,None,None,0,,,,None
+111,euroelessar,5,User,False,Ruslan Nigmatullin,Dropbox,http://qutim.org/,"Mountain View, California, USA",euroelessar@yandex.ru,35,,,,None
+112,chen-wang,5,User,False,Chen Wang,Google,,"Mountain View, CA",None,8,,,,None
+113,mleenhardt,5,User,False,Mathieu Leenhardt,None,,"Irvine, CA",None,5,,,,None
+114,hukeyue,4,User,False,Keyue-Hu,None,http://windyland.me,Beijing,khu@fastmail.fm,82,,,,making software
+115,gfecher,4,User,False,Feso,None,,"London, UK",gabor.fecher@gmail.com,3,,,,None
+116,gcasto,4,User,False,None,None,,None,None,0,,,,None
+117,maxwell-demon,4,User,False,Hongyu Chen,None,,None,None,2,,,,None
+118,jadekler,4,User,False,Jean de Klerk,Google,github.com/jadekler,"San Francisco, CA",deklerk@google.com,76,,,,"Passionate engineer, avid climber, passable cook, eager traveler. Engineer at Google working on Go libraries."
+119,marcinwyszynski,4,User,False,Marcin Wyszynski,None,,"Warsaw, Poland",None,26,,,,None
+120,mdzoba,4,User,False,None,None,,None,None,0,,,,None
+121,mbrukman,4,User,False,Misha Brukman,@GoogleCloudPlatform,https://twitter.com/MishaBrukman,Cloud ☁,None,133,,,,"Product Manager, Google Cloud Bigtable • Co-Founder, @JanusGraph • Advisor • Speaker • Author • Jsonnet and @TensorFlow cheerleader"
+122,renning22,4,User,False,Ning Ren,None,,None,None,5,,,,None
+123,w4-sjcho,4,User,False,Seongjin Cho,None,,None,None,0,,,,None
+124,tatsuhiro-t,4,User,False,Tatsuhiro Tsujikawa,Z Lab Corporation,https://twitter.com/tatsuhiro_t,Japan,None,571,,,,None
+125,toabctl,4,User,False,Thomas Bechtold,SUSE,,Berlin/Germany,thomasbechtold@jpberlin.de,19,,,,None
+126,vosst,4,User,False,Thomas Voß,@airmap ,,"Bochum, NRW, Germany",me@tvoss.io,9,,,,"Software architect and engineer by day, computer scientist and machine learner/tamer by night, covering client ⇄ cloud."
+127,toc007,4,User,False,None,None,,None,None,3,,,,None
+128,smulikHakipod,4,User,False,Yaron Shani,None,http://breaking-the-system.blogspot.com,Israel,y.aron.shani@gmail.com,10,,,,None
+129,g-easy,4,User,False,easy,None,,None,None,3,,,,"When you press this button, it says ""that was easy."""
+130,endobson,4,User,False,Eric Dobson,None,,"Mountain View, CA",None,31,,,,None
+131,zhangkun83,4,User,False,Kun Zhang,Google,,"Mountain View, CA",None,66,,,,None
+132,mpwarres,4,User,False,Michael Warres,None,,None,None,1,,,,None
+133,rauls5382,4,User,False,Raul Silvera,Google,,"Mountain View, CA",None,10,,,,None
+134,atombender,3,User,False,Alexander Staubo,None,,"New York, USA",alex@purefiction.net,53,,,,Norwegian developer in NYC.
+135,bluecmd,3,User,False,Christian Svensson,None,http://blog.cmd.nu,Sweden,github+nospam@cmd.nu,103,,,,Software Reliability Engineer. Love hacking on network stuff.
+136,dsymonds,3,User,False,David Symonds,Google,,"Sydney, Australia",None,505,,,,None
+137,gkelly,3,User,False,Garret Kelly,Google,https://gkel.ly,"Cambridge, MA",None,167,,,,None
+138,isturdy,3,User,False,Ian Sturdy,@google ,,California,None,2,,,,None
+139,jakobr-google,3,User,False,Jakob Andersen,None,,None,None,11,,,,None
+140,jeady,3,User,False,James Eady,None,http://james-eady.com/blog,New York,None,8,,,,None
+141,jozefizso,3,User,False,Jozef Izso,@goitsk ,https://jozefizso.github.io,None,None,24,,,,None
+142,rongjiecomputer,3,User,False,Loo Rong Jie,None,,None,None,13,,,,National University of Singapore
+143,mzhaom,3,User,False,Ming Zhao,Luminate Wireless,http://golangcloud.blogspot.com/,United States,None,26,,,,None
+144,spinorx,3,User,False,spinorX,spinorX,https://www.vircorx.com/,None,None,3,,,,None
+145,szehetner,3,User,False,None,None,,Austria,None,0,,,,None
+146,toanju,3,User,False,Tobias Jungel,BISDN,,Berlin,None,8,,,,None
+147,KindDragon,3,User,False,Arkady Shapkin,None,http://kinddragon.blogspot.com,"Moscow, Russia",None,46,,,,None
+148,slash-lib,3,User,False,Bill Clarke,@google ,,None,None,2,,,,None
+149,Torgen,3,User,False,Dan Rosart,@google,,None,None,0,,,,None
+150,miselin,3,User,False,Matthew Iselin,@google ,https://ideasandcode.xyz,"Mountain View, CA",miselin@google.com,27,,,,None
+151,zpencer,3,User,False,None,None,,None,None,5,,,,None
+152,fr05t1k,3,User,False,Stas Pavlovichev,None,,"Limassol, Cyprus",None,15,,,,None
+153,wkubiak,3,User,False,Wojtek Kubiak,Pineapple,,"Warsaw, Poland",None,0,,,,None
+154,gresrun,3,User,False,Greg Haines,YouTube,http://greghaines.net/,"San Francisco, CA",gresrun@gmail.com,57,,,,None
+155,tenderlove,2,User,True,Aaron Patterson,GitHub,http://tenderlovemaking.com/,Seattle,tenderlove@github.com,6877,,,,💘💙💜💗💚❤💓💛💚💗
+156,adam-26,2,User,False,Adam,None,,None,None,4,,,,None
+157,gislan,2,User,False,Adam Czachorowski,Google,http://gislan.utumno.pl,"Munich, Germany",gislan@utumno.pl,6,,,,None
+158,annasapek,2,User,False,Anna Sapek,@google ,,None,None,39,,,,None
+159,arjunroy,2,User,False,Arjun Roy,UC San Diego,http://cseweb.ucsd.edu/~arroy,"San Diego, CA",arroy@eng.ucsd.edu,1,,,,I enjoy REO Speedwagon Music.
+160,benjaminp,2,User,False,Benjamin Peterson,None,https://benjamin.pe,None,benjamin@python.org,133,,,,None
+161,coryan,2,User,False,Carlos O'Ryan,None,http://coryan.github.io/,None,None,6,,,,None
+162,Kunde21,2,User,False,Chad Kunde,None,,Oregon,None,18,,,,None
+163,caniszczyk,2,User,False,Chris Aniszczyk,None,https://aniszczyk.org,"Austin, TX USA",caniszczyk@gmail.com,388,,,,always paying it forward
+164,cblichmann,2,User,False,Christian Blichmann,@google @zynamics ,https://blichmann.eu/,"Zurich, Switzerland",None,125,,,,None
+165,clemensg,2,User,False,Clemens Gruber,None,,Austria,None,11,,,,None
+166,wonderfly,2,User,False,Daniel Wang,None,,None,None,26,,,,None
+167,deepaklukose,2,User,False,None,None,,None,None,19,,,,None
+168,DerekRoy,2,User,False,Derek,None,,"Vancouver, BC, Canada ",None,2,,,,None
+169,yeputons,2,User,False,Egor Suvorov,None,,"Saint-Petersburg, Russia",None,59,,,,None
+170,bjori,2,User,False,Hannes Magnusson,Credit Karma,http://bjori.blogspot.com,"Palo Alto, CA",bjori@php.net,475,,,,None
+171,ipylypiv,2,User,False,Igor Pylypiv,Silver Peak Systems,,San Francisco Bay Area,igor.pylypiv@gmail.com,2,,,,None
+172,thebearjew,2,User,False,Jacob Young,None,jry.io,"Davis, CA",jacob@jry.io,78,,,,Computer Science @ucdavis. Software Engineering @keybase @braintree @tulip. Organizer of @calhacks @hackdavis. Likes λ and 🍜
+173,BusyJay,2,User,False,Jay,None,,China,None,73,,,,None
+174,chingor13,2,User,False,Jeff Ching,None,http://chingr.com,"Seattle, WA",None,63,,,,None
+175,SurferJeffAtGoogle,2,User,False,Jeffrey Rennie,Google,https://medium.com/@SurferJeff,California,None,33,,,,I show .NET developers how to get the most out of Google Cloud Platform.
+176,jmuk,2,User,False,Jun Mukai,Google,http://www.jmuk.org/+,None,None,22,,,,None
+177,jl2922,2,User,False,Junhao Li,Cornell University,,Ithaca,jl2922@cornell.edu,4,,,,Explore. Create. Love.
+178,yayaboring,2,User,False,Junsung Ko,None,,None,None,7,,,,None
+179,kerrick-lyft,2,User,False,Kerrick Staley,None,,None,None,1,,,,None
+180,ksophocleous,2,User,False,Konstantinos Sofokleous,@alfatraining ,,Germany,ksophocleous@gmail.com,9,,,,"desktop client applications, audio/video streaming and coffee"
+181,vyper,2,User,False,Leonardo Saraiva,mcorp,http://mcorp.io,Campo Mourão - PR - Brasil,vyper@maneh.org,66,,,,"Fundador da comunidade WSO2 Brasil. Desenvolvedor apaixonado por tecnologia. Mexendo com: Ruby (Hanami, Sinatra, Rails) Python (Django) e Java (WSO2)."
+182,wilhuff,2,User,False,Gil,None,,None,None,34,,,,None
+183,michael-berlin,2,User,False,Michael Berlin,None,,None,None,4,,,,None
+184,rafaelsales,2,User,False,Rafael Sales,LockState.com,https://rafaelsales.github.com,Brazil,rafaelcds@gmail.com,71,,,,"Software Engineer.
+Ruby & Distributed Systems 💙"
+185,jronak,2,User,False,Ronak Jain,@juspay ,,bangalore,ronakjain@outlook.in,18,,,,None
+186,sahlberg,2,User,False,Ronnie Sahlberg,None,,MooreParkBeach/QLD/AU,ronniesahlberg@gmail.com,30,,,,None
+187,hacst,2,User,False,Stefan Hacker,None,,None,None,36,,,,None
+188,thagikura,2,User,False,Takeshi Hagikura,Google,http://twitter.com/#!/thagikura,"Tokyo, Japan",None,973,,,,None
+189,tcr,2,User,False,Tim Ryan,"@tessel, @facebook, more",http://timryan.org/,coast to coast,tim@timryan.org,265,,,,Non-recurring engineer.
+190,toddpoynor,2,User,False,Todd Poynor,Google,,United States,toddpoynor@google.com,2,,,,None
+191,VcamX,2,User,False,Jiarong Wei,None,vcamx.me,China,self@vcamx.me,31,,,,None
+192,aardappel,2,User,False,Wouter van Oortmerssen,Google,http://strlen.com/,San Francisco,None,176,,,,None
+193,lenage,2,User,False,Yuan He,None,http://blog.lenage.com/,On BlockChain,None,67,,,,None
+194,dapengzhang0,2,User,False,ZHANG Dapeng,Google,,CA 94043,dapeng.zhang@gmail.com,42,,,,None
+195,axot,2,User,False,Zheng SHAO,"COLOPL, Inc.",https://www.axot.org,Japan/Tokyo,axot@msn.com,34,,,,None
+196,kuscsik,2,User,False,Zoltan Kuscsik,None,,Denmark,None,20,,,,"Multimedia and graphics expert, with experience on various ARM platforms. Worked as a software architect on Android and Linux based products, creating full solu"
+197,alamaison,2,User,False,Alexander Lamaison,@twitter,http://alamaison.github.io,London,None,33,,,,None
+198,s4ichi,2,User,False,Takamasa Saichi,University of Tsukuba,https://s4ichi.github.io,Tsukuba / Japan,s.wakeup31@gmail.com,23,,,,student in computer science.
+199,jorgbrown,2,User,False,None,None,,None,None,0,,,,None
+200,jzeferino,2,User,False,jzeferino,None,,Portugal,jorgevalentzeferino@gmail.com,43,,,,None
+201,otofune,2,User,False,otofune,None,https://otofune.me/,"Tokyo, Japan",None,46,,,,yet another a developer
+202,beccasaurus,2,User,False,Rebecca Taylor,@google ,http://becca.me,"Seattle, WA",None,318,,,,"~ Developer Relations @ Google ~ 
+♡ ~ Ruby C# Dart Web ML/AI ~ ♡
+➳{ opinions are my own } ✌️"
+203,xambroz,2,User,False,None,None,,None,None,1,,,,None
+204,eavgerinos,2,User,False,Aggelos Avgerinos,Skroutz S.A.,http://eavgerinos.github.com/,"Athens, Greece",evaggelos.avgerinos@gmail.com,59,,,,SRE 
+205,eduherminio,2,User,False,Eduardo Cáceres,None,,Spain,None,6,,,,None
+206,a-musing-moose,2,User,False,Jonathan Moss,None,,"Melbourne, Australia",None,33,,,,None
+207,jyang,2,User,False,Jun Yang,None,,Silicon Valley,None,3,,,,None
+208,0oneo,1,User,False,0oneo,None,0oneo.cc,杨河,neoman.v@gmail.com,29,,,,some code archive here
+209,defstream,1,User,False,@DEFSTREAM,@TuneIn ,http://www.hectorgray.com,"Los Angeles, CA ",None,20,,,,"Engineer, Father, Photographer, Cook, Bodhisattva —http://www.hectorgray.com"
+210,aaronbee,1,User,False,Aaron Beitch,Arista Networks,,None,aaronb@arista.com,16,,,,None
+211,adewale,1,User,False,Ade Oshineye,None,http://blog.oshineye.com/,None,None,187,,,,None
+212,alenkacz,1,User,False,Alena Varkockova,None,http://twitter.com/alenkacz,Prague,None,38,,,,"developer, traveller, foodie"
+213,alexvy86,1,User,False,Alex Villarreal,Definity First,,United States,None,2,,,,None
+214,ahouben,1,User,False,Alexander Houben,Greenliff AG,,Switzerland,ahouben@greenliff.com,4,,,,None
+215,afirago,1,User,False,Alexey Firago,Mentor Graphics,,None,None,1,,,,None
+216,andremedeiros,1,User,False,André Medeiros,@status-im,https://twitter.com/superdealloc,Ottawa,me@andremedeiros.info,90,,,,None
+217,medinandres,1,User,False,None,None,,None,None,0,,,,None
+218,enisoc,1,User,False,Anthony Yeh,@google,,"Santa Clara, CA",enisoc@google.com,115,,,,Software engineer working on @kubernetes and @vitessio.
+219,arfaian,1,User,False,Arian Arfaian,Google,http://www.arianarfaian.com,"Redwood City, CA",arian.arfaian@gmail.com,11,,,,None
+220,Arkq,1,User,False,Arkadiusz Bokowy,None,,"Warsaw, Poland",None,22,,,,None
+221,ax3l,1,User,False,Axel Huebl,"HZDR, TU Dresden",https://keybase.io/ax3l,"Dresden, Germany",None,89,,,,"Computational Physicist, PhD Student"
+222,BenchR267,1,User,False,Benjamin Herzog,@Apple,http://blog.benchr.de,"Cupertino, CA",mail@benchr.de,107,,,,CS student
+223,blairkutz,1,User,False,Blair Kuzman,None,,"Bainbridge Island, WA",None,2,,,,None
+224,bshaffer,1,User,False,Brent Shaffer,"Google, Inc.",https://twitter.com/bshaffer,San Francisco,bshafs@gmail.com,559,,,,None
+225,bsilver8192,1,User,False,None,None,,None,None,1,,,,None
+226,bdiesel,1,User,False,Brian Diesel,DesignCondition LLC,www.designcondition.com,Boston MA,brian@designcondition.com,15,,,,None
+227,bblancha,1,User,False,Bryan Blanchard,None,,None,None,2,,,,None
+228,ctaggart,1,User,False,Cameron Taggart,Taggart Software LLC,https://www.linkedin.com/company/taggartsoftwarellc/,None,cameron.taggart@gmail.com,56,,,,Software Consultant at Taggart Software LLC
+229,camillol,1,User,False,None,None,,None,None,7,,,,None
+230,cookyt,1,User,False,Carlos Valera,None,,"Orlando, Florida",None,3,,,,None
+231,wcevans,1,User,False,Chris Evans,@google,,None,None,13,,,,None
+232,lamby,1,User,False,Chris Lamb,Freelancer for hire,https://chris-lamb.co.uk,None,chris@chris-lamb.co.uk,306,,,,"@Debian Project Leader • @ReproducibleBuilds core dev •  @LinuxFoundation grantee • Freelance programmer (@Django, etc.) • Classical musician"
+233,trimbo,1,User,False,Chris Trimble,None,http://trimbo.com,San Francisco,None,13,,,,None
+234,chwarr,1,User,False,Christopher Warrington,Microsoft,http://www.thebluepolicebox.com/,None,None,17,,,,None
+235,chhsia0,1,User,False,Chun-Hung Hsiao,@mesosphere,,None,None,1,,,,None
+236,connor4312,1,User,False,Connor Peet,@Mixer & @Microsoft,https://twitter.com/ConnorPeet,Seattle,connor@peet.io,123,,,,A tea-powered neural network. Senior engineer on @mixer.
+237,twk3,1,User,False,DJ Mountney,None,,None,None,3,,,,None
+238,f33rx,1,User,False,Dalton,@zerofinancial ,https://www.zerofinancial.com,"San Francisco, California",None,7,,,,"Sys Admin, developer, intruder, goofball, lover of tailored elegance."
+239,MrMage,1,User,False,Daniel Alm,Timing — automatic time tracking for Mac,https://timingapp.com/,"Munich, Germany",None,30,,,,None
+240,danhhz,1,User,False,Daniel Harrison,Cockroach Labs,http://www.freebase.com/m/0gbm307,"New York, NY",None,15,,,,"Scalable, survivable, strongly consistent, SQL @cockroachdb. Formerly @foursquare, @google."
+241,hassox,1,User,False,Daniel Neighman,@opendoor-labs,,San Francisco,dneighman@gmail.com,311,,,,None
+242,boxofrad,1,User,False,Daniel Upton,@geckoboard,,UK,daniel@floppy.co,12,,,,Resident rubyist @geckoboard.
+243,davidben,1,User,False,David Benjamin,Google,https://davidben.net,"Cambridge, MA",davidben@davidben.net,95,,,,None
+244,dcow,1,User,False,David,@eero-inc ,http://dcow.io,San Francisco,david.w.cowden@gmail.com,28,,,,I like tea.
+245,DavidYKay,1,User,False,David Young-Chan Kay,None,http://www.davidykay.com,"Vancouver, BC, Canada",davidykay@gmail.com,86,,,,None
+246,dmitshur,1,User,False,Dmitri Shuralyov,"Google, Go team",https://dmitri.shuralyov.com,NYC,dmitri@shuralyov.com,1052,,,,"I'm trying to gain a better understanding of the world, so I can help make it simpler and better. I enjoy writing correct, high-quality Go code. Minimalist."
+247,dmitriykovalev,1,User,False,Dmitriy Kovalev,None,http://www.linkedin.com/in/dkovalev,"San Francisco, CA",None,21,,,,None
+248,dylanahsmith,1,User,False,Dylan Thacker-Smith,Shopify,,"Ottawa, ON",Dylan.Smith@shopify.com,66,,,,None
+249,rdsedmundo,1,User,False,Edmundo Rodrigues,None,,"Belo Horizonte, Brazil",rdsedmundo@gmail.com,4,,,,linkedin.com/in/rdsedmundo
+250,odeke-em,1,User,False,Emmanuel T Odeke,@orijtech ,https://twitter.com/odeke_et,"Palo Alto, California",emm.odeke@gmail.com,277,,,,"Working on @census-instrumentation, @golang and the cloud at @orijtech. Always learning!"
+251,rltvty,1,User,False,Eric Pinzur,OtherInBox,,"Austin, TX",None,3,,,,None
+252,ernie,1,User,False,Ernie Miller,None,https://ernie.io,"Louisville, Kentucky",ernie@ernie.io,454,,,,What we build is only as useful as the impact it has on human beings.
+253,eundoosong,1,User,False,Eundoo Song,Samsung Electronics,,Seoul,eundoo.song@gmail.com,2,,,,None
+254,evanj,1,User,False,Evan Jones,None,http://evanjones.ca/,"New York, NY, USA",None,85,,,,None
+255,p16,1,User,False,Filippo De Santis,None,,None,None,25,,,,None
+256,flaviommedeiros,1,User,False,None,None,,None,None,7,,,,None
+257,Orphis,1,User,False,Florent Castelli,Google,,"Stockholm, Sweden",None,40,,,,None
+258,nagelflorian,1,User,False,Florian Nagel,@CandisIO,https://floriannagel.xyz,"Berlin, Germany",None,26,,,,Full-Stack Software Engineer working on automating 🤖 financial workflows at @CandisIO
+259,frenkel,1,User,False,Frank Groeneveld,http://ivaldi.nl,http://frankgroeneveld.nl,The Netherlands,None,13,,,,None
+260,frankyn,1,User,False,Frank Natividad,@google ,http://franknatividad.com,"San Jose, CA",None,46,,,,Patience is key.
+261,gazialankus,1,User,False,Gazihan Alankus,None,http://www.cse.wustl.edu/~gazihan,None,gazialankus@gmail.com,22,,,,None
+262,geoffreyp,1,User,False,Geoffrey Pruvost,Inria,http://geoffreypruvost.fr,"Lille, France",None,10,,,,Phd Student in the bonus team of Inria/Cristal
+263,cauthu,1,User,False,Giang Nguyen,None,,None,None,1,,,,None
+264,glerchundi,1,User,False,Gorka Lerchundi Osa,None,,None,None,18,,,,None
+265,ghophp,1,User,False,Guilherme Oliveira,InnoGames GmbH,http://ghophp.github.io/,Hamburg - Germany,ghophp@gmail.com,44,,,,I am always looking forward to learn more. It is fascinating to enable other areas to flourish through technology.
+266,abdulhannanali,1,User,False,Hannan Ali,None,hannanali.tech,"Lahore, Pakistan",ali.abdulhannan@gmail.com,103,,,,"it's actually all about the tech..
+:smile: :+1: :100: :100: :100: "
+267,HuKeping,1,User,False,None,Huawei,,None,hukeping@huawei.com,23,,,,None
+268,HugoHo0212,1,User,False,None,None,,None,None,0,,,,None
+269,yoloseem,1,User,False,Hyunjun Kim,@toss ,,Seoul,None,90,,,,None
+270,JackOfMostTrades,1,User,False,Ian Haken,None,https://twitter.com/ianhaken,None,None,45,,,,https://www.linkedin.com/pub/ian-haken/1a/475/6b6/en
+271,ivucica,1,User,False,Ivan Vučica,@google ,https://ivan.vucica.net/,"Dublin, Ireland",ivan@vucica.net,40,,,,None
+272,Op3n4M3,1,User,False,None,None,,None,None,0,,,,None
+273,jackwakefield,1,User,False,Jack Wakefield,None,,"Norwich, UK",jackwakefield@protonmail.com,13,,,,"Mostly Go these days, toying with @ziglang"
+274,crast,1,User,False,None,None,,None,None,13,,,,None
+275,jdiazcano,1,User,False,Javier Diaz,Amazon Web Services,,Dublin,None,7,,,,None
+276,meisterpeeps,1,User,False,Jeff Peoples,Klooj,,"Seattle, WA",meisterpeeps@gmail.com,21,,,,None
+277,jeremiegirault,1,User,False,Jérémie Girault,None,https://jeremiegirault.github.io,"Paris, France",None,17,,,,None
+278,yallop,1,User,False,None,None,,Cambridge,None,189,,,,None
+279,joeshaw,1,User,False,Joe Shaw,@fastly,https://joeshaw.org,"Columbus, OH",joe@joeshaw.org,149,,,,None
+280,proppy,1,User,False,Johan Euphrosine,Google,,San Francisco,None,296,,,,None
+281,jmillikin-stripe,1,User,False,None,None,,None,None,2,,,,None
+282,jhseu,1,User,False,Jonathan Hseu,@tensorflow @google,,"San Francisco, CA",vomjom@vomjom.net,228,,,,Google Brain
+283,haberman,1,User,False,Joshua Haberman,Google,http://blog.reverberate.org,"Seattle, WA",jhaberman@gmail.com,267,,,,None
+284,yapkke,1,User,False,K.K. Yap,Google,,"CA, USA",(see website),10,,,,None
+285,kskalski,1,User,False,Kamil Skalski,None,http://kamil-skalski.pl,None,None,6,,,,None
+286,Kangmo,1,User,False,Kangmo Kim,ScaleChain,http://www.linkedin.com/in/kangmo,"Seoul, Korea",None,46,,,,None
+287,kevindamm-jigsaw,1,User,False,Kevin Damm,@Jigsaw,,New York City,None,0,,,,"Engineer, designer and fixer."
+288,krasimirgv,1,User,False,Krasimir Georgiev,Google,,Munich,krasimir@google.com,1,,,,Work on C++ Tools
+289,sebright,1,User,False,None,None,,None,None,16,,,,None
+290,lipka,1,User,False,Lukas Lipka,@tink-ab,http://lukaslipka.com,None,lukaslipka@gmail.com,120,,,,Lead iOS Engineer
+291,docent-net,1,User,False,Maciej Lasyk,Codewise,https://maciej.lasyk.info,Kraków / Poland,maciek@lasyk.info,24,,,,None
+292,makroiss,1,User,False,Manuel Kroiss,Google,,London,None,7,,,,None
+293,marcwan,1,User,False,Marc Wandschneider,Google,http://marcwan.com,"London, UK",None,336,,,,None
+294,markmandel,1,User,False,Mark Mandel,Google,http://www.compoundtheory.com,"San Francisco, California",None,205,,,,Developer Advocate for Games at Google Cloud Platform
+295,bmarkons,1,User,False,Marko Bogdanović,@renderedtext,https://bmarkons.github.io,"Novi Sad, Serbia",mamaveb@gmail.com,13,,,,I ride bike and code.
+296,mdyring,1,User,False,Martin Dyring-Andersen,None,,None,martin@dyring-andersen.dk,7,,,,None
+297,theRealWardo,1,User,False,Matt Ward,None,,"San Francisco, CA",contact@mwdesigns.com,18,,,,None
+298,codebender,1,User,False,Matthew Bender,@gospotcheck,5280code.com,"Denver, CO",None,34,,,,"Doing Great Work for @gospotcheck, mainly ruby for now. Outside of the office I get into elixir, R, & python."
+299,mdsteele,1,User,False,Matthew D. Steele,None,https://mdsteele.games/,None,mdsteele@alum.mit.edu,21,,,,None
+300,mattleibow,1,User,False,Matthew Leibowitz,@Microsoft @xamarin @mono @monogame,http://dotnetdevaddict.co.za,"Cape Town, South Africa",mattleibow@live.com,160,,,,Home is where the [.NET] compiler is...
+301,mnuck,1,User,False,Matthew Nuckolls,None,,None,None,14,,,,None
+302,rebello95,1,User,False,Michael Rebello,@lyft ,www.michaelrebello.com,"San Francisco, CA",me@michaelrebello.com,8,,,,iOS @lyft
+303,mit-mit,1,User,False,Michael Thomsen,Google Inc.,https://twitter.com/MiSvTh,"Aarhus, Denmark",None,154,,,,"Product manager working on Flutter and Dart.
+Helping developers is my passion!"
+304,michielbdejong,1,User,False,Michiel de Jong,Available for hire,http://michielbdejong.com/,Utrecht (NL),None,192,,,,"Network Ledger Technology (https://ledgerloops.com). Also Decentralized sync for the Web (Firefox OS, Unhosted); scalability eng., Node"
+305,msiedlarek,1,User,False,Mikołaj Siedlarek,None,siedlarek.net,"Warsaw, Poland",mikolaj@siedlarek.pl,18,,,,None
+306,hanmd82,1,User,False,Mingding Han,None,,Singapore,hanmd82@gmail.com,8,,,,None
+307,mistydemeo,1,User,True,Misty De Meo,None,http://mistys-internet.website/,"Vancouver, BC",mistydemeo@gmail.com,753,,,,None
+308,morganchen12,1,User,False,Morgan Chen,@firebase,,United States,None,53,,,,None
+309,mjkim,1,User,False,Myungjun Kim,Kakao,,"Seoul, Korea",None,8,,,,None
+310,overvenus,1,User,False,Neil Shen,@pingcap ,,"Hangzhou / Beijing, China",overvenus@gmail.com,50,,,,None
+311,nbeckman,1,User,False,Nels Beckman,None,http://www.nelsbeckman.com,"Brussels, Belgium",None,2,,,,None
+312,ngauthier,1,User,False,Nick Gauthier,Nomics,http://ngauthier.com,"Arlington, MA",None,224,,,,"Founder/CTO at Nomics
+http://nomics.com"
+313,bagmangood,1,User,False,Nick Gordon,None,,None,None,1,,,,None
+314,nlopezgi,1,User,False,Nicolas Lopez,Google,,Waterloo,nlopezgi@gmail.com,10,,,,I build tools to help developers deal with the complexity of software engineering processes.
+315,nsuke,1,User,False,Aki Sukegawa,None,,Tokyo,None,16,,,,None
+316,nobutaka,1,User,False,None,None,,None,None,13,,,,None
+317,kfsone,1,User,False,Oliver Smith,None,http://kfsone.wordpress.com/,"San Jose, CA",None,3,,,,None
+318,paddybyers,1,User,False,Paddy Byers,None,,None,paddy.byers@gmail.com,60,,,,None
+319,parkr,1,User,True,Parker Moore,GitHub,https://byparker.com,USA,None,1028,,,,:doughnut: :earth_americas: :octocat:
+320,lepatryk,1,User,False,Patryk Lesiewicz,Google,,San Francisco,patryk@firebase.com,33,,,,None
+321,paulb777,1,User,False,Paul Beusterien,Google,https://www.linkedin.com/in/paulbeusterien,"Alameda, California  US",None,114,,,,None
+322,geckovia,1,User,False,Paul Petit,None,,None,None,0,,,,None
+323,pgonda,1,User,False,Peter Gonda,None,,None,None,2,,,,None
+324,hacfi,1,User,False,hacfi,Certified Symfony developer,,Berlin,None,152,,,,None
+325,PiotrSikora,1,User,False,Piotr Sikora,@google ,,"San Francisco, CA",None,166,,,,None
+326,raj-nt,1,User,False,Rajendra Talekar,@practo @practolabs ,http://www.rajnt.info,Bengaluru,rajendra@practo.com,10,,,,None
+327,abdullin,1,User,False,Rinat Abdullin,Helping teams worldwide,http://abdullin.com,Ufa/World,None,200,,,,Software Engineer. 
+328,robertwb,1,User,False,Robert Bradshaw,None,,None,robertwb@gmail.com,36,,,,None
+329,icodeplus,1,User,False,Roy Wang,None,,China,None,0,,,,None
+330,ryanvo,1,User,False,Ryan,None,,"Philadelphia, PA",None,3,,,,None
+331,RyanGordon,1,User,False,Ryan Gordon,None,,None,ryan@quizlet.com,10,,,,None
+332,sbc100,1,User,False,Sam Clegg,@google,http://superduper.net/,San Francisco,sam@superduper.net,91,,,,None
+333,ghemawat,1,User,False,Sanjay Ghemawat,None,,None,None,194,,,,None
+334,santoshankr,1,User,False,Santosh Ananthakrishnan,None,,San Francisco,santosh@dropbox.com,1,,,,None
+335,Scott84,1,User,False,None,None,,None,None,0,,,,None
+336,splittingred,1,User,False,Shaun McCormick,BigCommerce,http://splittingred.com/,"Austin, TX",splittingred@gmail.com,219,,,,"Staff Software Engineer @bigcommerce, formerly co-architect @modxcms. grpc/distributed systems/architecture. likes fruit snacks."
+337,jyane,1,User,False,Shohei Kamimori,"DWANGO Co., Ltd.",https://jyane.jp,"Tokyo, Japan",jyane.kstm@gmail.com,18,,,,décadence
+338,iguchi1124,1,User,False,Shota Iguchi,@cookpad,https://twitter.com/iguchi1124,"Tokyo, Japan",shota-iguchi@cookpad.com,45,,,,Programmer
+339,sidnei,1,User,False,Sidnei da Silva,None,http://blog.sidneidasilva.com,"Zürich, Switzerland",None,34,,,,None
+340,ujentus,1,User,False,Gomdor,None,,None,None,3,,,,None
+341,jerub,1,User,False,Stephen Thorne,@google ,,"London, UK",stephen@thorne.id.au,11,,,,None
+342,stevej,1,User,False,Steve Jenson,None,http://saladwithsteve.com/,"San Francisco, CA",stevej@fruitless.org,214,,,,None
+343,stub42,1,User,False,None,None,,None,None,8,,,,None
+344,atetubou,1,User,False,Takuto Ikuta,None,,None,None,5,,,,None
+345,tamihiro,1,User,False,Tamihiro Yuzawa,Sakura Internet,,None,dead6oy@gmail.com,5,,,,None
+346,teodor-pripoae,1,User,False,Teodor Pripoae,Kuende,,Bucharest,teodor.pripoae+recruiter-emails-will-be-published@gmail.com,35,,,,None
+347,CurrentTV,1,User,False,None,None,,None,None,0,,,,None
+348,gitter-badger,1,User,False,The Gitter Badger,Gitter,https://gitter.im,Safe in the Gitter den,badger@gitter.im,206,,,,None
+349,RackhamLeNoir,1,User,False,Thomas Pietrzak,University of Lille,http://www.thomaspietrzak.com,France,None,6,,,,None
+350,Yhg1s,1,User,False,T. Wouters,@google,,None,thomas@python.org,33,,,,None
